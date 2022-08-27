@@ -1,5 +1,5 @@
 [![MasterHead](https://telegra.ph/file/3b55d776b7a047afd3c3c.jpg)](https://ramkrishnajha5.io)
-<h1 align="center">Hi 👋, I'm Ramkrishna jha</h1>
+<h1 align="center">Hi 👋, I'm Ramkrishna</h1>
 <h3 align="center">A passionate learner and developer from India</h3>
 <img align="right" alt="coding" width="400" src="https://raw.githubusercontent.com/SandunWebDev/SandunWebDev/main/assets/developer_coding_1.gif">
 
@@ -11,12 +11,12 @@
 
 - 📫 How to reach me **ram03krishna@gmail.com**
 
-- ⚡ Fun fact **Yes, I'm Funny guy.**
+- ⚡ Fun fact **Yes, I'm Funny Guy.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/ramkrishnajha5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ramkrishnajha5" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/ramkrishnajha5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ramkrishnajha5" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/ramkrishna-jha-9454aa1b3/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ramkrishnajha5" height="30" width="40" /></a>
 <a href="https://instagram.com/ramkrishnajha5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ramkrishnajha5" height="30" width="40" /></a>
 </p>
 
