@@ -5,9 +5,11 @@
 
 <p align="left"> <a href="https://twitter.com/ramkrishnajha5" target="blank"><img src="https://img.shields.io/twitter/follow/ramkrishnajha5?logo=twitter&style=for-the-badge" alt="ramkrishnajha5" /></a> </p>
 
-- 🌱 I’m currently learning **OOP's, DSA**
+- 🔭 I’m currently working **Front End Web Dev.**
 
-- 💬 Ask me about **Static Web Dev. and Basic 'C'**
+- 🌱 I’m currently learning **Javascript(Bootstrap, React js)**
+
+- 💬 Ask me about **Web Devlopment and Basic 'C'**
 
 - 📫 How to reach me **ram03krishna@gmail.com**
 
