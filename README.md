@@ -6,7 +6,7 @@
 <!-- Animated Typing -->
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=%F0%9F%91%8B+Hey+there!+I'm+Ram+Krishna;%F0%9F%9A%80+Full+Stack+Developer+from+India;%F0%9F%8E%AF+Turning+Ideas+into+Reality" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=%F0%9F%91%8B+Hey+there!+I'm+Ram+Krishna;%F0%9F%9A%80+Full+Stack+Developer+from+India;" alt="Typing SVG" />
   </a>
 </div>
 
@@ -21,25 +21,9 @@
 <br/>
 
 <!-- About Me Section -->
-<img align="center" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
+<img align="center" alt="Coding" width="400" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif"/>
 
 ## 🧑‍💻 About Me
-
-```javascript
-const ramKrishna = {
-    pronouns: "He" | "Him",
-    location: "India 🇮🇳",
-    role: "Full Stack Developer",
-    workingOn: "Building modern web applications",
-    learning: ["Advanced React Patterns", "Cloud Architecture"],
-    askMeAbout: ["Web Dev", "React", "Node.js", "Databases", "UI/UX"],
-    funFacts: {
-        sports: "Football fanatic ⚽ (Messi is the GOAT!)",
-        entertainment: "Movie buff 🎬 & Series addict 📺",
-        motto: "Code, Create, Coffee, Repeat ☕"
-    }
-};
-```
 
 <br/>
 
@@ -58,7 +42,7 @@ const ramKrishna = {
 
 ## 🌐 Connect With Me
 
-<div align="center">
+<div align="left">
   <a href="https://twitter.com/ramkrishnajha5" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter"/>
   </a>
@@ -80,23 +64,19 @@ const ramKrishna = {
 
 <!-- Animated Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 ## 🛠️ Tech Stack
 
-<div align="center">
+<div align="left">
 
 ### 🎨 Frontend
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap&theme=dark" alt="Frontend"/>
 </p>
 
-### ⚙️ Backend
+### ⚙️ Backend & Database
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express&theme=dark" alt="Backend"/>
-</p>
-
-### 🗄️ Database & Cloud
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase,supabase&theme=dark" alt="Database"/>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mysql,mongodb,firebase,supabase&theme=dark" alt="Backend"/>
 </p>
 
 ### � Tools
@@ -114,8 +94,6 @@ const ramKrishna = {
 </p>
 
 </div>
-
----
 <!-- Animated Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
@@ -124,27 +102,13 @@ const ramKrishna = {
 <div align="center">
   
   <!-- GitHub Stats Card -->
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=ramkrishnajha5&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=6366F1&text_color=c9d1d9&count_private=true" alt="GitHub Stats"/>
-
-</div>
-
-<br/>
-
-<div align="center">
-  
+  <img width="54%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ramkrishnajha5&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=6366F1&text_color=c9d1d9&count_private=true" alt="GitHub Stats"/>
   <!-- Most Used Languages -->
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ramkrishnajha5&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=c9d1d9&langs_count=8" alt="Top Languages"/>
+  <img width="44%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ramkrishnajha5&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=c9d1d9&langs_count=8" alt="Top Languages"/>
   
 </div>
 
 <br/>
-
-<!-- GitHub Activity Graph -->
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ramkrishnajha5&custom_title=Ram%20Krishna's%20Contribution%20Graph&bg_color=0D1117&color=6366F1&line=6366F1&point=FFFFFF&area_color=6366F1&title_color=FFFFFF&area=true&hide_border=true" alt="Activity Graph"/>
-</div>
-
----
 
 <!-- Animated Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
